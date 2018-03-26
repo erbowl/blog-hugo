@@ -1,5 +1,5 @@
 hasCJKLanguage = true
-baseurl = "https://note.nyamu.me"
+baseurl = "https://note.nyamu.me/"
 theme = "hugo_theme_robust"
 languageCode = "ja"
 title = "I WANT TO SPEND MY LIFE WITHOUT LABOR"
