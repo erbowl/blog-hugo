@@ -1,7 +1,8 @@
-baseurl = "https://nyamu.me"
+hasCJKLanguage = true
+baseurl = "https://note.nyamu.me"
 theme = "hugo_theme_robust"
 languageCode = "ja"
-title = "新米エンジニア（予定）のブログ"
+title = "I WANT TO SPEND MY LIFE WITHOUT LABOR"
 googleAnalytics = "UA-113457171-3"
 disqusShortname = "erbowl"
 
@@ -11,7 +12,7 @@ disqusShortname = "erbowl"
   description = "<p>神戸出身 東京大学4年生</p><p>趣味：webサービスの開発、カメラ、競プロ</p><p>2019年から就職してエンジニアになります。</p><p>個人開発で食っていけることが夢です。</p>"
   twitter = "https://twitter.com/erb_owl"
   github = "https://github.com/erbowl"
-  instagram = "https://github.com/erbowl"
+  instagram = "https://www.instagram.com/owlet1975/"
   atcoder = "http://atcoder.jp/user/erbowl"
 
 [outputs]

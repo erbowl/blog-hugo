@@ -1,7 +1,3 @@
-/* body{
-  background-image: url("{{ .Site.BaseURL }}/images/background.jpg");
-  background-size: cover;
-}
-header{
+/* header{
   color: white;
 } */
