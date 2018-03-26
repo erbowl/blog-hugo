@@ -4,7 +4,7 @@ theme = "hugo_theme_robust"
 languageCode = "ja"
 title = "I WANT TO SPEND MY LIFE WITHOUT LABOR"
 googleAnalytics = "UA-113457171-3"
-disqusShortname = "erbowl"
+# disqusShortname = "erbowl"
 
 [params.author]
   thumbnail = "images/author.png"
